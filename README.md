@@ -16,9 +16,9 @@ I'm a 3nd year student pursuing Bachelors in Software Engineering 🎓 from Guru
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://camo.githubusercontent.com/b357d78cb59af9dcc26c081e2d335f0a5879522539b88e9e0745a31f2806768c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652d3466633038643f7374796c653d666c6174266c6f676f3d5675652e6a73266c6f676f436f6c6f723d666666"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="[https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql](https://camo.githubusercontent.com/b357d78cb59af9dcc26c081e2d335f0a5879522539b88e9e0745a31f2806768c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652d3466633038643f7374796c653d666c6174266c6f676f3d5675652e6a73266c6f676f436f6c6f723d666666)"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
